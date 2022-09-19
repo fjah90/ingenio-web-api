@@ -1,6 +1,0 @@
-[submodule "ingenio-web-app"]
-	path = ingenio-web-app
-	url = https://github.com/fjah90/ingenio-web-app
-[submodule "ingenio-web-api"]
-	path = ingenio-web-api
-	url = https://github.com/fjah90/ingenio-web-api
